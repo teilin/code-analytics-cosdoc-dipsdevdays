@@ -2,6 +2,9 @@
 
 ## Talk outline
 
+* Introduksjon
+** Meg selv
+** Foredraget
 * Hva er adferdskodeanalyse?
 * ...
 
@@ -22,3 +25,4 @@
 * [PragProg: Software Design X-Rays](https://pragprog.com/book/atevol/software-design-x-rays)
 * [PragProg: Your Code as a Crime Scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
 * [Conway's law](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
+* [Basert på denne DDD Europe Talken](https://dddeurope.com/2019/speakers/adam-tornhill/)
