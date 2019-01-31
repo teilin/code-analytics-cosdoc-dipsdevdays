@@ -1,6 +1,13 @@
 # Code analytics to help refactor
 
-...
+## Talk information
+
+* Tittel: Adferdskodeanalyse - hva er det og hvordan kan det brukes?
+* Kort beskrivelse: Versjonskontroll inneholder mye informasjon om en kodebase. Denne informasjonen kan brukes til å analysere adferden og mønstere i koden. Ved å bli bedre kjent med koden sin adferd og mønstere kan det være lettere å finne hvilke områder som burde refaktoreres.
+* Hvorfor skal folk velge dette foredraget: For å se hvordan versjonskontrolldata kan brukes til å finne trender og mønstere i kodebasen. Lære om hvilke verktøy som finnes og er tilgjengelige for å gjøre adferdsanalyse av kodebaser.
+* Hva vil folk huske fra foredraget: Måter å bruke versjonskontrollinformasjon til å finne adferd og mønster i en kodebase for å finne områder som kanskje burde refaktoreres. Folk vil også huske hva slags verktøy som er tilgjengelig for å kunne gjøre slike analyser.
+* Lengde: 40 min
+* Om meg og min bakgrunn: Teis Lindemark, utviklingsansvarlig Levekår, Acos (snart Dips Front). Engasjert utvikler som liker å teste ut nye teknologier og holde meg faglig oppdatert.
 
 ## Resources
 
