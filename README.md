@@ -3,8 +3,10 @@
 ## Talk outline
 
 * Introduksjon
+
 ** Meg selv
 ** Foredraget
+
 * Hva er adferdskodeanalyse?
 * ...
 
