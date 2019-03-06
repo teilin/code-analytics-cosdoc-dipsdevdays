@@ -29,3 +29,4 @@
 * [Conway's law](https://www.thoughtworks.com/insights/blog/demystifying-conways-law)
 * [Basert på denne DDD Europe Talken](https://dddeurope.com/2019/speakers/adam-tornhill/)
 * [Vimeo: GOTO 2016 - Your code as a crime scene](https://www.youtube.com/watch?v=7FApEq8wum4)
+* [http://wettel.github.io/codecity-faq.html](http://wettel.github.io/codecity-faq.html)
