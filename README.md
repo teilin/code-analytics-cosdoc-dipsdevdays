@@ -4,10 +4,15 @@
 
 * Introduksjon
   * Meg selv
-  * Foredraget
-
 * Hva er adferdskodeanalyse?
-* ...
+* Hotspots
+* Kalkuler kompleksitet
+* Kunnskapskart
+
+## Endelig presangtasjon
+
+* Tittel: Hvordan bruke versjonskontrollen til å få bedre innsikt i koden og finne skjulte trender?
+* Beskrivelse: Versjonskontrollen inneholder mye data. Ofte brukes ikke denne dataen til noe fornyftig, men den kan gi verdifull innsikt i koden. Hvilke deler av koden kan det være lurt å starte å refakturere? Hva hvis en av utviklerene slutter, er det noen områder av koden som ingen har fullstendig oversikt over? Hvordan kan kodekompleksitet måles på en enkel måte? Dette er noen eksempler på spørsmål som kan bli besvart og visualuert ved å analysere dataen fra versjonskontrollen.
 
 ## Talk information
 
